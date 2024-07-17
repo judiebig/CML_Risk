@@ -2,7 +2,7 @@
 
 This repo provides a reference implementation of **CML-Risk** as described in the paper "Contrastive Multi-task Learning for Risk Prediction":
 
-![Contrastive Objectives](pics/cl_paradigm.png)
+![Contrastive Objectives](pics/joc_figure.pdf)
 
 Submitted to JOC 2023 for review
 --------------------
